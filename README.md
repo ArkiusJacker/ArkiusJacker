@@ -1,16 +1,14 @@
-### Hi there 👋
+**Bem Vindo Ao Meu GitHub!** <h1>
 
-<!--
-**ArkiusJacker/ArkiusJacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu Nome é Victor e essa são algumas das informações básicas que eu estarei falando para vocês
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* 🔭 No Momento estou trabalhando em desenvolver um bot de discord <h2>
+* 🌱 atualmente estudando Javascript <h2>
+* 📫 Para me contactar, mande mensagem em: Arkiusjacker@outlook.com <h2>
+
+<div>
+<a href="https://github.com/ArkiusJacker">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arkiusjacker"/>
+<div>
 -->
