@@ -9,6 +9,7 @@ Meu Nome é Victor e essa são algumas das informações básicas que eu estarei
 
 <div>
 <a href="https://github.com/ArkiusJacker">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arkiusjacker"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arkiusjacker&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkiusjacker&layout=compact&langs_count=16&theme=tokyonight"/>
 <div>
 -->
