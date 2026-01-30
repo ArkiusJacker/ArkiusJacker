@@ -5,8 +5,8 @@
 Meu Nome é Victor e essa são algumas das informações básicas que eu estarei falando para vocês
 
 * 🔭 No Momento estou trabalhando em desenvolver um bot de discord <h2>
-* 🌱 atualmente estudando Javascript <h2>
-* 📫 Para me contactar, mande mensagem em: Arkiusjacker@outlook.com <h2>
+* 🌱 atualmente estudando Typescript e Javascript <h2>
+* 📫 Para me contactar, mande mensagem em: victor18lima@gmail.com  <h2>
 
 <div align="center">
 <a href="https://github.com/ArkiusJacker">
